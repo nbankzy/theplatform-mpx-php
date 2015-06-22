@@ -1,6 +1,5 @@
 <?php
-use Exception;
-
+require_once('Mpx.php');
 class MpxMedia extends Mpx{
 
 	protected $_guid = '';

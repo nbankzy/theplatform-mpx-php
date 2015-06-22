@@ -1,6 +1,4 @@
 <?php
-namespace app\extensions\helper;
-
 class Mpx {
     static protected $_token;
     protected static $_serverId = '';

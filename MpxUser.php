@@ -1,4 +1,5 @@
 <?php
+require_once('Mpx.php');
 class MpxUser extends Mpx {
 	protected $_userId;
 	protected $_username;

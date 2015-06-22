@@ -1,6 +1,4 @@
 <?php
-use Exception;
-
 class MpxMimes extends Mpx{
 
     protected $_mimes;
